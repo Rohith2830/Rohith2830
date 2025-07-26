@@ -16,18 +16,12 @@
 - **Tools & Platforms:** Git, Cadence, Xilinx, EDA Playground, Vivado, Scilab, LTspice, Spark, Delta Lake, 
 - **Core Areas:** Data Science, VLSI Design, Embedded Systems, ETL Pipelines, AI/ML, PCB Design
 
-## 🔬 Projects
-
-- 🧠 **AI-Optimized Power Manager for SoCs** – Dynamic power control using RTL and thermal awareness  
-- 🌱 **Low-Power Embedded System for Environmental Monitoring**  
-- 🔁 **Serverless DevOps Pipeline** – CI/CD using GitHub Actions and monitoring stack  
-- 🩺 **Diabetes Prediction using ML** – AI model for health analytics
 
 ## 📫 Connect with Me
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/vadlamudi-rohith-9433a91b1/) (add your profile link)
-- 📧 Email: your.email@example.com
+- 🔗 [GitHub](https://github.com/Rohith2830)  
+- 🔗 [LinkedIn](https://www.linkedin.com/in/vadlamudi-rohith-9433a91b1/)
 
 ---
 
-_Thanks for visiting my profile! ⭐_
+_Thanks for visiting my profile! ⭐ Explore my repositories and feel free to connect._
