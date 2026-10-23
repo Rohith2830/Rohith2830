@@ -20,7 +20,7 @@
 ## 📫 Let’s Connect!
 
 - 🔗 [GitHub](https://github.com/Rohith2830)  
-- 🔗 [LinkedIn](www.linkedin.com/in/vadlamudi-rohith)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/vadlamudi-rohith/?isSelfProfile=true)
 
 ---
 
